@@ -13,8 +13,8 @@ Ini sebuah revisi dan pengembangan dari aplikasi simple account manager sebelumn
 
 Jika pertama kali menggunakan aplikasi ini, Anda diharuskan untuk membuat Akun terlebih dahulu, yaitu Akun untuk program ini. Program akan mendeteksi apakah Anda Pengguna Pertama atau sudah pernah menggunakan program ini.
 
-
-Rizky Khapidsyah
-Programmer of This Programs
-Copyright © 2012-2013 by Rizky Khapidsyah.
-All Right Reserved.
+<br><br>
+Rizky Khapidsyah<br>
+Programmer of This Programs<br>
+Copyright © 2012-2013 by Rizky Khapidsyah.<br>
+All Right Reserved.<br>
