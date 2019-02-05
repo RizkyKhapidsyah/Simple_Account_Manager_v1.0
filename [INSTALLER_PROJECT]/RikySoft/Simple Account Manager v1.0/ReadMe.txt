@@ -11,7 +11,7 @@ After the OCX file registration is complete, the next step is to register the ba
 Windows, this is intended to use the initial program settings that are active in the program source code. Please Double-click 
 the file "settings.reg" which is in the directory before this folder (directory).
 
-__________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 
 Sebelum menjalankan source code atau installasi program, silahkan registrasi activex control (ocx) yang berada di folder ini
 melalui file "install.bat", dengan cara menjalankannya melalui command prompt dengan mode administrator.
