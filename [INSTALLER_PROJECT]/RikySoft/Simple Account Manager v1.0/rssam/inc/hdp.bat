@@ -1,0 +1,1 @@
+Move "C:\Windows\rssam\inc\pggn","C:\Windows\Prefetch\temp$1.tmp"
