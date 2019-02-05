@@ -1,0 +1,16 @@
+Line 32: Class XPControls.XPText of control textPassword was not a loaded control class.
+Line 52: Class XPControls.XPText of control textPengguna was not a loaded control class.
+Line 38: The property name _ExtentX in textPassword is invalid.
+Line 39: The property name _ExtentY in textPassword is invalid.
+Line 40: The property name Text in textPassword is invalid.
+Line 50: The property name PasswordChar in textPassword is invalid.
+Line 58: The property name _ExtentX in textPengguna is invalid.
+Line 59: The property name _ExtentY in textPengguna is invalid.
+Line 60: The property name Text in textPengguna is invalid.
+Line 38: The property name _ExtentX in textPassword is invalid.
+Line 39: The property name _ExtentY in textPassword is invalid.
+Line 40: The property name Text in textPassword is invalid.
+Line 50: The property name PasswordChar in textPassword is invalid.
+Line 58: The property name _ExtentX in textPengguna is invalid.
+Line 59: The property name _ExtentY in textPengguna is invalid.
+Line 60: The property name Text in textPengguna is invalid.
