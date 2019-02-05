@@ -28,9 +28,10 @@ Sebuah aplikasi yang berfungsi untuk mencatat akun-akun ada. Pencatatan tertulis
 Ini sebuah revisi dan pengembangan dari aplikasi simple account manager sebelumnya yang gagal fungsi. Ini merupakan pengembangan pertama dari aplikasi sebelumnya yang rilis dan telah ditarik kembali. Memberikan Anda kemudakan untuk menyimpan dan mengarsipkan data-data account Anda. Baik di lingkungan desktop, maupun web. 
 
 Jika pertama kali menggunakan aplikasi ini, Anda diharuskan untuk membuat Akun terlebih dahulu, yaitu Akun untuk program ini. Program akan mendeteksi apakah Anda Pengguna Pertama atau sudah pernah menggunakan program ini.
-
+<br>
+<b>PENTING</b>
 Sebelum menjalankan source code atau installasi program, silahkan registrasi activex control (ocx) yang berada di folder ini
-melalui file "install.bat", dengan cara menjalankannya melalui command prompt dengan mode administrator.
+melalui file <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/tree/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0/activeX">"install.bat"</a>, . <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0/activeX/install.bat"> (Klik Disini Untuk Melihat Source Code)</a> dengan cara menjalankannya melalui command prompt dengan mode administrator.
 
 Jika registrasi ocx gagal, silahkan lakukan resgitrasi secara manual dengan cara Copy file-file ocx ke dalam direktory windows :
 C:\Windows\System32, skip file jika ada, setelah itu registrasi manual melalui command prompt dengan mode administrator.
@@ -38,7 +39,7 @@ C:\Windows\System32, skip file jika ada, setelah itu registrasi manual melalui c
 Jika registrasi ocx masih gagal silahkan lakukan cara sebelumnya namun dengan menimpa file-file ocx tersebut ke folder System32,
 setelah itu resgitrasi file-file ocx secara manual menggunakan command prompt dengan mode administrator.
 
-Setelah registrasi file ocx selesai dilakukan, maka langkah selanjutnya mendaftarkan pengaturan (setting) dasar program ke registry Windows, hal ini dimaksudkan untuk penggunaan pengaturan awal program yang aktif di source code program. Silahkan Dobel-Klik file "settings.reg" yang berada pada direktory sebelum folder (direktori) ini.
+Setelah registrasi file ocx selesai dilakukan, maka langkah selanjutnya mendaftarkan pengaturan (setting) dasar program ke registry Windows, hal ini dimaksudkan untuk penggunaan pengaturan awal program yang aktif di source code program. Silahkan Dobel-Klik file <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/tree/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0">"settings.reg"</a>.<a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0/settings.reg">(Klik Disini Untuk Melihat Source Code)<a> yang berada pada direktory sebelum folder (direktori) ini.
 
 <br><br>
 Rizky Khapidsyah<br>
