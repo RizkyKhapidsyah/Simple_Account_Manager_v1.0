@@ -28,8 +28,8 @@ Sebuah aplikasi yang berfungsi untuk mencatat akun-akun ada. Pencatatan tertulis
 Ini sebuah revisi dan pengembangan dari aplikasi simple account manager sebelumnya yang gagal fungsi. Ini merupakan pengembangan pertama dari aplikasi sebelumnya yang rilis dan telah ditarik kembali. Memberikan Anda kemudakan untuk menyimpan dan mengarsipkan data-data account Anda. Baik di lingkungan desktop, maupun web. 
 
 Jika pertama kali menggunakan aplikasi ini, Anda diharuskan untuk membuat Akun terlebih dahulu, yaitu Akun untuk program ini. Program akan mendeteksi apakah Anda Pengguna Pertama atau sudah pernah menggunakan program ini.
-<br>
-<b>PENTING</b>
+<br><br>
+<b>PENTING</b><br>
 Sebelum menjalankan source code atau installasi program, silahkan registrasi activex control (ocx) yang berada di folder ini
 melalui file <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/tree/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0/activeX">"install.bat"</a>, . <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0/activeX/install.bat"> (Klik Disini Untuk Melihat Source Code)</a> dengan cara menjalankannya melalui command prompt dengan mode administrator.
 
