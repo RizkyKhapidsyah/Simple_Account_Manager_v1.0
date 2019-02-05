@@ -12,3 +12,9 @@ Sebuah aplikasi yang berfungsi untuk mencatat akun-akun ada. Pencatatan tertulis
 Ini sebuah revisi dan pengembangan dari aplikasi simple account manager sebelumnya yang gagal fungsi. Ini merupakan pengembangan pertama dari aplikasi sebelumnya yang rilis dan telah ditarik kembali. Memberikan Anda kemudakan untuk menyimpan dan mengarsipkan data-data account Anda. Baik di lingkungan desktop, maupun web. 
 
 Jika pertama kali menggunakan aplikasi ini, Anda diharuskan untuk membuat Akun terlebih dahulu, yaitu Akun untuk program ini. Program akan mendeteksi apakah Anda Pengguna Pertama atau sudah pernah menggunakan program ini.
+
+
+Rizky Khapidsyah
+Programmer of This Programs
+Copyright © 2012-2013 by Rizky Khapidsyah.
+All Right Reserved.
