@@ -23,7 +23,7 @@ the file <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0
 
 _____________________________________________________________
 
-Sebuah aplikasi yang berfungsi untuk mencatat akun-akun ada. Pencatatan tertulis akun pada lingkungan Desktop ataupun Web. Simple Account Manager digunakan secara offline pada desktop komputer anda, dapat mengatur akun-akun dengan data yang cukup banyak. Dapat menampung data hingga 1000 atau lebih data ke dalam sebuah database
+Sebuah aplikasi yang berfungsi untuk mencatat akun-akun anda. Pencatatan tertulis akun pada lingkungan Desktop ataupun Web. Simple Account Manager digunakan secara offline pada desktop komputer anda, dapat mengatur akun-akun dengan data yang cukup banyak. Dapat menampung data hingga 1000 atau lebih data ke dalam sebuah database
 
 Ini sebuah revisi dan pengembangan dari aplikasi simple account manager sebelumnya yang gagal fungsi. Ini merupakan pengembangan pertama dari aplikasi sebelumnya yang rilis dan telah ditarik kembali. Memberikan Anda kemudakan untuk menyimpan dan mengarsipkan data-data account Anda. Baik di lingkungan desktop, maupun web. 
 
