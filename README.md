@@ -1,4 +1,8 @@
-# Simple_Account_Manager_v1.0
+# Simple_Account_Manager - Version 1.0
+<br><br>
+<img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/certificate/Sertifikat%20100%25%20Bebas%20Malware%20-%20Simple%20Account%20Manager%20-%20Softpedia.PNG" width=400pt>
+<br><br>
+___
 An application that functions to record your accounts . Written records of desktop and web-based accounts. Simple Account Manager is used offline on your computer desktop, can manage accounts with quite a lot of data. Can hold data up to 1000 or more data into a database.
 
 This is a revision and development of the previous simple account manager application that failed to function. This is the first development of the previous application that was released and has been recalled. Provides you with the opportunity to save and archive your account data. Both in desktop and web environments.
@@ -40,6 +44,12 @@ Jika registrasi ocx masih gagal silahkan lakukan cara sebelumnya namun dengan me
 setelah itu resgitrasi file-file ocx secara manual menggunakan command prompt dengan mode administrator.
 
 Setelah registrasi file ocx selesai dilakukan, maka langkah selanjutnya mendaftarkan pengaturan (setting) dasar program ke registry Windows, hal ini dimaksudkan untuk penggunaan pengaturan awal program yang aktif di source code program. Silahkan Dobel-Klik file <a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/tree/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0">"settings.reg"</a>.<a href="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/%5BINSTALLER_PROJECT%5D/RikySoft/Simple%20Account%20Manager%20v1.0/settings.reg">(Klik Disini Untuk Melihat Source Code)<a> yang berada pada direktory sebelum folder (direktori) ini.
+
+
+_____________________________________________________________
+<b>SCREENSHOT</b><br>
+
+<img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/001.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/002.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/003.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/004.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/005.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/006.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/007.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/008.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/009.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/010.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/011.PNG"> <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/screenshot/012.PNG"> 
 
 <br><br>
 Rizky Khapidsyah<br>
