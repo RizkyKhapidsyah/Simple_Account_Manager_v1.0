@@ -54,7 +54,5 @@ _____________________________________________________________
 
 # Download Software on <a href="https://www.softpedia.com/get/Security/Security-Related/RikySoft-Simple-Account-Manager.shtml" target="blank">Softpedia.</a><br>
 
-Rizky Khapidsyah<br>
-Programmer of This Programs<br>
-Copyright © 2012-2013 by Rizky Khapidsyah.<br>
+Copyright© 2012-2013 by Rizky Khapidsyah.<br>
 All Right Reserved.<br>
