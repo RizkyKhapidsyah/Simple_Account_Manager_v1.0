@@ -3,7 +3,8 @@
 <img src="https://github.com/RizkyKhapidsyah/Simple_Account_Manager_v1.0/blob/master/certificate/Sertifikat%20100%25%20Bebas%20Malware%20-%20Simple%20Account%20Manager%20-%20Softpedia.PNG" width=400pt>
 <br><br>
 ___
-An application that functions to record your accounts . Written records of desktop and web-based accounts. Simple Account Manager is used offline on your computer desktop, can manage accounts with quite a lot of data. Can hold data up to 1000 or more data into a database.
+Hello,
+This is an application that functions to record your accounts . Written records of desktop and web-based accounts. Simple Account Manager is used offline on your computer desktop, can manage accounts with quite a lot of data. Can hold data up to 1000 or more data into a database.
 
 This is a revision and development of the previous simple account manager application that failed to function. This is the first development of the previous application that was released and has been recalled. Provides you with the opportunity to save and archive your account data. Both in desktop and web environments.
 
